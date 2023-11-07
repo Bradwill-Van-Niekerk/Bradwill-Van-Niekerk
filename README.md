@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+I'm Bradwill Van Niekerk A front end development student, about to finish my course in December of 2023. I am hard working and looking forward to learn more when I start working.
+
+I enjoy working on new projects that challenges me and I enjoy learning new ways to work through problems.
+
+I am currently learning java-script and have learnt HTML and Css with my course and I am learning React on my own in my free time.
+
+If I'm not busy with my course work or doing research I would be playing games which helps me unwind when feeling stressed or in the gym.
 <!--
 **Bradwill-Van-Niekerk/Bradwill-Van-Niekerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
