@@ -8,6 +8,9 @@ I enjoy working on new projects that challenges me and I enjoy learning new ways
 I am currently learning java-script and have learnt HTML and Css with my course and I am learning React on my own in my free time.
 
 If I'm not busy with my course work or doing research I would be playing games which helps me unwind when feeling stressed or in the gym.
+
+![<Badge Name>]([https://img.shields.io](https://www.linkedin.com/in/bradwill-van-niekerk-a02211280/)/badge/<Badge Linkedin>-<Background blue>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 <!--
 **Bradwill-Van-Niekerk/Bradwill-Van-Niekerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
